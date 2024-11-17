@@ -1,4 +1,4 @@
-# Countify - Eine kleines Utility zum Zählen von Wörtern
+# Countify - Ein kleines Utility zum Zählen von Wörtern
 
 
 ## Aufbau
@@ -55,4 +55,7 @@
 - **Qualitätsmerkmale:**
   - Der Code enthält keine Fehler, Warnungen oder Hinweise in Visual Studio.
   - `Nullable` ist in allen Projekten aktiviert, um potenzielle Nullreferenzfehler zu vermeiden.
-
+ 
+- **Automatisierung:**
+  - Der Code ist auf GitHub versioniert. [Link](https://github.com/bpieser/countify)
+  - CI/CD-Pipeline ist aktiviert, um sicher zu stellen, dass der Code auch auf anderen Systemen baut und die Unit-Tests laufen. [Link](https://github.com/bpieser/countify/actions/runs/11880344999)
