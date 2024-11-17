@@ -1,0 +1,10 @@
+Berlin 150000
+Leipzig 100000
+Bremen 50000
+Stralsund 50000
+Florenz 50000
+Sevilla 50000
+Bordeaux 100000
+Bozen 100000
+Verona 50000
+Nizza 50000

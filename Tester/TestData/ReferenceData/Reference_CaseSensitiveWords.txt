@@ -1,0 +1,9 @@
+Stralsund 1
+Berlin 1
+Leipzig 1
+stralsund 1
+berlin 1
+leipzig 1
+stralsUnd 1
+BERlin 1
+LeipZIG 1

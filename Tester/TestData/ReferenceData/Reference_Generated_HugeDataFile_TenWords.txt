@@ -1,0 +1,10 @@
+Berlin 3660000
+Leipzig 2440000
+Bremen 1220000
+Stralsund 1220000
+Florenz 1220000
+Sevilla 1220000
+Bordeaux 2440000
+Bozen 2440000
+Verona 1220000
+Nizza 1220000

@@ -1,0 +1,7 @@
+1:1 1
+Adam 2
+Seth 2
+Enos 1
+1:2 1
+Cainan 1
+Iared 1
